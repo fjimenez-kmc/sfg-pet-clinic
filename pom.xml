@@ -97,7 +97,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/fjimenez-kmc/sfg-pet-clinic.git</developerConnection>
-        <tag>HAED</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>

@@ -139,3 +139,7 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+HELP.md
+pet-clinic-data/target/
+pet-clinic-web/target/
